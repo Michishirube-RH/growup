@@ -5,8 +5,8 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: '/growup',      // ← nama repository Anda
-  assetPrefix: '/growup/',  // ← nama repository Anda
+  basePath: '/growup',
+  assetPrefix: '/growup/',
   trailingSlash: true,
 };
 
